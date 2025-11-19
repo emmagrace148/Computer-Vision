@@ -1,0 +1,1 @@
+I chose a local business and identified a manual process that could be improved through automation. I described how the process currently works, explained how automation could make it more efficient, and discussed the benefits it would bring as well as the challenges the business might face when implementing it.
