@@ -3,7 +3,7 @@ I created an image-classification model using Google’s Teachable Machine to re
 The objects my model was trained to identify:
 * Class 1 (Hair Claw Clip)
 * Class 2 (Pen)
-* Class 3 (Airpod Case)
+* Class 3 (AirPods Case)
 
 * 1.  **Model Performance & Iteration:**
     * My initial trained model demonstrated partial accuracy. While it successfully recognized the hair claw clip, it struggled to correctly identify the pen and the AirPods case. 
@@ -24,5 +24,5 @@ The objects my model was trained to identify:
     * Being able to download and share the trained model files, such as model.json and weights.bin, is useful because it allows the model to be reused, tested, or deployed outside of Teachable Machine. Sharing these files on platforms like GitHub enables collaboration, version control, and integration into real applications, making it possible for others to run the model, build on it, or use it in their own projects.
 
 5.  **Real-World Applications & Ethics:**
-    * A few real world applications where a similar image classification model could be useful include, Inventory Managment, Security and Access Control and Quality Control Manefacturing. Inventory Management: A model could automatically identify items on store shelves to track stock levels or detect when products need restocking. Security & Access Control, Image classification could help recognize authorized badges or equipment, improving workplace or school security systems. Quality Control in Manufacturing, A model could detect defective parts or products on an assembly line by comparing them to correct examples.
+    * A few real-world applications where a similar image classification model could be useful include, Inventory Managment, Security and Access Control and Quality Control Manefacturing. Inventory Management: A model could automatically identify items on store shelves to track stock levels or detect when products need restocking. Security & Access Control, Image classification could help recognize authorized badges or equipment, improving workplace or school security systems. Quality Control in Manufacturing, A model could detect defective parts or products on an assembly line by comparing them to correct examples.
     * One important ethical consideration is privacy. Developers must ensure that image recognition systems do not unintentionally collect or analyze sensitive personal information without consent, as misuse of visual data can lead to surveillance concerns, loss of autonomy, or violations of individual rights.
